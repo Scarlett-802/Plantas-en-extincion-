@@ -1,0 +1,19 @@
+---
+title: "Trabajo con plantas extintas"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+ 
+library(readr)
+
+plants <- read_csv(*https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-08-18/plants.cvs*)
+
+# hola amor 
+## te amo mucho este es mi primer documento estoy emocionada
+
+
